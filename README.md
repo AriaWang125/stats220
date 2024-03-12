@@ -10,4 +10,9 @@
 
 * I am major in Data Science👩‍💻
 
-This link to my favourite movie: [favourite movie](https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film))
+## My top 3 movies:
+1. [Howl's Moving Castle](https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film))
+2. [We Made a Beautiful Bouquet](https://asianwiki.com/We_Made_a_Beautiful_Bouquet)
+3. [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away)
+
+❤❤
